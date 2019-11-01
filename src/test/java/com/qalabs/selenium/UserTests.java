@@ -1,11 +1,11 @@
-package com.serli.selenium;
+package com.qalabs.selenium;
 
 import static org.junit.Assert.assertTrue;
 
+import com.qalabs.selenium.po.LoginPage;
 import org.junit.Test;
 
-import com.serli.selenium.po.AdminPage;
-import com.serli.selenium.po.LoginPage;
+import com.qalabs.selenium.po.AdminPage;
 
 public class UserTests extends BaseSeleniumTest {
     

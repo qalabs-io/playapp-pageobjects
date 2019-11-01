@@ -1,6 +1,4 @@
-package com.serli.selenium.po;
-
-import java.util.concurrent.TimeUnit;
+package com.qalabs.selenium.po;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

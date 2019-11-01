@@ -1,4 +1,4 @@
-package com.serli.selenium;
+package com.qalabs.selenium;
 
 import java.net.URL;
 import java.util.concurrent.TimeUnit;

@@ -1,4 +1,4 @@
-package com.serli.selenium.po;
+package com.qalabs.selenium.po;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
