@@ -1,16 +1,10 @@
-Exercice :
-
-	Pour démarrer le projet Play lancer la commande : run.bat dans le repertoire C:\formations\selenium\Selenium 2\workspace\AppDemo
-	
-	Pour aller sur l'interface, entrer l'adresse suivante dans le navigateur : http://localhost:9000
-
-	En utilisant les classe présente et le pattern PageObject, créez :
-		- Completez les manques dans le test pour que celui-ci fonctionne correctement
-		- Ajoutez un test permettant de supprimez tous les utilisateurs
 
 Exercice :
 
-	Pour démarrer le projet Play lancer la commande : run.bat dans le repertoire C:\formations\selenium\Selenium 2\workspace\AppDemo
+
+    Ce exercices vous permette de mettre en pratique les connaissances aquisent sur les Pages Objects Pattern
+	Pour démarrer le projet Play lancer la commande : run.bat dans le repertoire formations\selenium\Selenium\workspace\AppDemo
+	Le projet AppDemo vous sera fournit le jour de la formation
 
 	Pour aller sur l'interface, entrer l'adresse suivante dans le navigateur : http://localhost:9000
 
